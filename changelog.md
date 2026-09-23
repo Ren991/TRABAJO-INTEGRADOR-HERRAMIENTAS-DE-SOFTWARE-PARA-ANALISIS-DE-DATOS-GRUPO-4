@@ -1,5 +1,7 @@
 # CHANGELOG
 ----------------------------
+Dia 4: Se crearon los dataframes resultantes de PortAnalyzer
+Dia 4: Se crea la clase PortAnalyzer en el colab
 Dia 3: Se guardo el resumen estadistico
 Dia 3: Se guardo el dataset limpio
 Dia 3: Se eliminaron filas sin infracción
