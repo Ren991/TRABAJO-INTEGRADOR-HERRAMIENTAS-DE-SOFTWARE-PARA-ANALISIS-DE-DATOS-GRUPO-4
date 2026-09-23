@@ -1,5 +1,6 @@
 # CHANGELOG
 ----------------------------
+Dia 6: Se respondieron preguntas de analis en el colab
 Dia 5: Se añadio el grafic Infracciones con fecha válida vs fecha inválida
 Dia 5: Se añadio el grafic Exceso de velocidad promedio por muelle
 Dia 5: Se añadio el grafico total del exceso de velocidad real
