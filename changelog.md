@@ -1,5 +1,6 @@
 # CHANGELOG
 ----------------------------
+Dia 8: Se aplicaron correcciones de acuerdo a las observaciones
 Dia 7: Se añadio una conclusion final en conclusion.md
 Dia 6: Se respondieron preguntas de analis en el colab
 Dia 5: Se añadio el grafic Infracciones con fecha válida vs fecha inválida
