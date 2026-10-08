@@ -1,5 +1,6 @@
 # CHANGELOG
 ----------------------------
+Dia 9: Incio del Sprint 2 - Se añade dataset de imagenes
 Dia 8: Se aplicaron correcciones de acuerdo a las observaciones
 Dia 7: Se añadio una conclusion final en conclusion.md
 Dia 6: Se respondieron preguntas de analis en el colab

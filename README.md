@@ -1,5 +1,24 @@
 # TRABAJO-INTEGRADOR-HERRAMIENTAS-DE-SOFTWARE-PARA-ANALISIS-DE-DATOS-GRUPO-4
 
+# Port Log - Sprint 2 (actual)
+
+## 1. Objetivo
+Aplicar conocimientos de tratamiento de imágenes y programación limpia sobre el contexto del sistema portuario.
+
+## 2. Introducción y Contexto del Problema
+Sprint 2 — Desarrollar
+
+Los radares ubicados en los accesos a los muelles capturan evidencia fotográfica de las infracciones de velocidad. Las cámaras asociadas toman fotografías de la zona de proa donde está pintada la matrícula del buque. En algunos casos el sistema recorta automáticamente la zona de matrícula (`plates`); en otros, entrega la imagen completa (`completes`).
+
+El sistema presenta las siguientes limitaciones:
+* No todas las infracciones tienen imagen asociada.
+* No todas las imágenes corresponden a una infracción real (falsos positivos del radar).
+* Puede haber errores de detección óptica: imágenes borrosas, nocturnas o tomadas a gran distancia.
+
+El objetivo central es responder: **¿qué infracciones tienen evidencia visual válida?**
+
+---
+
 # Port Log - Sprint 1
 
 ## 1. Objetivo
