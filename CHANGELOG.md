@@ -1,5 +1,6 @@
 # CHANGELOG
 ----------------------------
+Dia 14: Añadimos conclusiones del Sprint 2 
 Dia 13: Analizamos los resultados del sprint 
 Dia 12: Se extraen las matriculas con ocr y se marchea con el dataset 
 Dia 11: Se añaden archivos en escala de grises,ecualizadas, suavizadas y detección de bordes 
