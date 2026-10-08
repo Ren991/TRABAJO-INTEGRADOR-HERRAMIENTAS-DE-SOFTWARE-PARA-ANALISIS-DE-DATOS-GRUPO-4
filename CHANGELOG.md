@@ -1,5 +1,6 @@
 # CHANGELOG
 ----------------------------
+Dia 11: Se añaden archivos en escala de grises,ecualizadas, suavizadas y detección de bordes 
 Dia 10: Se añade un diccionario para la separacion de imagenes
 Dia 9: Incio del Sprint 2 - Se añade dataset de imagenes
 Dia 8: Se aplicaron correcciones de acuerdo a las observaciones
