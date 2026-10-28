@@ -1,0 +1,6 @@
+outs:
+- md5: a598512b165bd12cd80b2233eeeac52d.dir
+  size: 473252
+  nfiles: 5
+  hash: md5
+  path: buque_vectorial

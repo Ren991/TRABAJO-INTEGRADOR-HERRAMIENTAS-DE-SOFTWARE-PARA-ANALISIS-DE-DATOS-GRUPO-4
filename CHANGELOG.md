@@ -1,6 +1,10 @@
 # CHANGELOG
 ---
 
+## [Ejercicio 7]
+- Se creo la BD buque_vectorial
+
+
 ## [Ejercicio 6]
 - Se implementaron consultas SQLAlchemy sobre la BD
 
