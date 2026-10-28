@@ -1,6 +1,10 @@
 # CHANGELOG
 ---
 
+## [Ejercicio 6]
+- Se implementaron consultas SQLAlchemy sobre la BD
+
+
 ## [Ejercicio 5]
 - Se creo la BD
 
