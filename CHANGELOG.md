@@ -1,6 +1,10 @@
 # CHANGELOG
 ---
 
+## [Ejercicio 5]
+- Se creo la BD
+
+
 ## [Ejercicio 4]
 - Se mapeo el modelo logico en el ipynb
 

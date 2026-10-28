@@ -11,3 +11,4 @@ port_log/data/raw/imgs
 port_log/data/interim/plots
 port_log/data/processed/port_movements_image.csv
 port_log/data/processed/buque_vectorial
+port_log/data/processed/transito_portuario.db
