@@ -1,5 +1,12 @@
 # CHANGELOG
 ---
+
+## [Ejercicio 2]
+- migrado de processed/port_movements_image.csv a dvc
+- migrado de interim/plots a dvc
+- migrado de port_log/data/raw/imgs a dvc
+- Inicialización del repositorio de dvc
+
 ## [Ejercicio 1]
 * Inicio del Sprint 3.
 * Aplicamos correcion al changelog.md y nuevo README

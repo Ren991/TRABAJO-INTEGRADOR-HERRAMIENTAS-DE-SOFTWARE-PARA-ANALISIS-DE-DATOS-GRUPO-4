@@ -1,0 +1,7 @@
+[core]
+    no_scm = True
+    remote = supabase_s3
+['remote "supabase_s3"']
+    url = s3://grupo_04
+    endpointurl = https://ongggrktdivbbazmuyyu.storage.supabase.co/storage/v1/s3
+    region = us-west-2
