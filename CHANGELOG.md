@@ -1,6 +1,10 @@
 # CHANGELOG
 ---
 
+## [Ejercicio 3]
+- se añadio el modelo logico
+
+
 ## [Ejercicio 2]
 - migrado de processed/port_movements_image.csv a dvc
 - migrado de interim/plots a dvc
