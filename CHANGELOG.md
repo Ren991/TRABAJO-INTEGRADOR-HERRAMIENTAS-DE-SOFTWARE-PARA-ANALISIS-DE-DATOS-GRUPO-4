@@ -1,6 +1,10 @@
 # CHANGELOG
 ---
 
+## [Ejercicio 4]
+- Se mapeo el modelo logico en el ipynb
+
+
 ## [Ejercicio 3]
 - se añadio el modelo logico
 
