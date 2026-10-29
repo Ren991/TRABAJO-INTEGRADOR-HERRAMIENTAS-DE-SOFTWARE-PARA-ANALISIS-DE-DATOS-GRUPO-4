@@ -1,6 +1,10 @@
 # CHANGELOG
 ---
 
+## [Ejercicio 69]
+- Se añade reporte/conclusion final
+
+
 ## [Ejercicio 8]
 - Se implementó la función buscar_buque_por_imagen
 
