@@ -1,6 +1,10 @@
 # CHANGELOG
 ---
 
+## [Ejercicio 8]
+- Se implementó la función buscar_buque_por_imagen
+
+
 ## [Ejercicio 7]
 - Se creo la BD buque_vectorial
 
